@@ -34,7 +34,7 @@ digital-logic-simulations/
 
 ​EDA Simulation Tool: Proteus 9 Professional
 ​Domain: Digital Logic Design, Sequential Logic, Combinational Circuits
-​Core Components: Flip-Flops (D/JK), Logic Gates (NAND, AND, OR), Counters, Registers, 7-Segment Displays
+​Core Components: Flip-Flops (D/JK), Logic Gates (NAND, AND, OR), Counters, Registers, 7-Segment Displays ...
 ​
 ## 🚀 How to Explore
 ​Navigate to any project folder above or click the links in the Projects Directory.
