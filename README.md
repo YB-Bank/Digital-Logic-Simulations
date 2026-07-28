@@ -27,7 +27,8 @@ digital-logic-simulations/
 │   ├── register_4bit.pdsprj
 │   └── README.md
 │
-└── README.md                 <-- You are here (Repository Index) ``
+└── README.md                 <-- You are here (Repository Index)
+```
 
 🛠️ Tools & Technologies
 ​EDA Simulation Tool: Proteus 9 Professional
