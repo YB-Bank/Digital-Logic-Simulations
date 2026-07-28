@@ -13,7 +13,7 @@ Click on any project link below to access its detailed documentation, schematic 
 ---
 ## 📂 Repository Structure
 The repository is organized in a modular structure where each folder contains a standalone project with its own dedicated documentation:
-```text
+```cpp
 digital-logic-simulations/
 │
 ├── 01-modulo20-counter/      <-- Project 1: Modulo-20 Counter
