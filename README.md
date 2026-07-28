@@ -30,11 +30,13 @@ digital-logic-simulations/
 └── README.md                 <-- You are here (Repository Index)
 ```
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
+
 ​EDA Simulation Tool: Proteus 9 Professional
 ​Domain: Digital Logic Design, Sequential Logic, Combinational Circuits
 ​Core Components: Flip-Flops (D/JK), Logic Gates (NAND, AND, OR), Counters, Registers, 7-Segment Displays
-​🚀 How to Explore
+​
+##🚀 How to Explore
 ​Navigate to any project folder above or click the links in the Projects Directory.
 ​Inside each folder, you will find a project-specific README.md containing full operational details.
 ​Download the .pdsprj files to run and test the simulations directly inside Proteus 9.
