@@ -23,13 +23,14 @@ digital-logic-simulations/
 |
 |
 |
-|
 ├── 01-modulo20-counter/      <-- Project 1: Modulo-20 Counter
 │   ├── schematic.png         <-- Proteus Schematic Screenshot
 │   ├── demo.gif              <-- Simulation Animation / Video
 │   ├── counter_m20.pdsprj    <-- Proteus Project File
 │   └── README.md             <-- Detailed Project Documentation
 │
+|
+|
 └── README.md                 <-- You are here (Repository Index)
 ```
 
