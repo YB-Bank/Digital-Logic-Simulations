@@ -12,7 +12,7 @@ A synchronous **4-Bit Parallel-In Parallel-Out (PIPO) Register** simulated in **
 
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/7d1a9fc2-98f6-4e0b-9824-4bd1a9a3e1e9" />
 
-
+01-4bit-register/4bit-register.pdsprj
 
 ### 2. Live Simulation
 
@@ -39,5 +39,5 @@ https://github.com/user-attachments/assets/18376df5-f624-4bac-a05e-727847cfd1b5
 
 ---
 ## 💾 How to Run
-1. Open [`register_4bit.pdsprj`](./4bit-register.pdspri) in **Proteus 9** or higher.
+1. Open [`register_4bit.pdsprj`](/4bit-register.pdspri) in **Proteus 9** or higher.
 2. Set input values via logic switches and observe how outputs update synchronously with the clock signal.
