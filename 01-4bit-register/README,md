@@ -10,6 +10,8 @@ A synchronous **4-Bit Parallel-In Parallel-Out (PIPO) Register** simulated in **
 ## 📐 Circuit Schematic & Simulation
 ### 1. Circuit Schematic
 
+![4-Bit Register Schematic](Schematic.png)
+
 ### 2. Live Simulation
 ![4-Bit Register Simulation](demo.gif)
 ---
