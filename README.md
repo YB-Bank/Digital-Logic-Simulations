@@ -16,22 +16,22 @@ The repository is organized in a modular structure where each folder contains a 
 ```python
 digital-logic-simulations/
 │
-├── 01-4bit-register/          <-- Project 2: 4-Bit Storage Register
+├── 01-4bit-register/ 
 │   ├── schematic.png
 │   ├── register_4bit.pdsprj
 │   └── README.md
 |
 |
 |
-├── 01-modulo20-counter/      <-- Project 1: Modulo-20 Counter
-│   ├── schematic.png         <-- Proteus Schematic Screenshot
-│   ├── demo.gif              <-- Simulation Animation / Video
-│   ├── counter_m20.pdsprj    <-- Proteus Project File
-│   └── README.md             <-- Detailed Project Documentation
+├── 01-modulo20-counter/     
+│   ├── schematic.png         
+│   ├── demo.gif              
+│   ├── counter_m20.pdsprj   
+│   └── README.md            
 │
 |
 |
-└── README.md                 <-- You are here (Repository Index)
+└── README.md               
 ```
 
 ## 🛠️ Tools & Technologies
