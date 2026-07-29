@@ -17,17 +17,18 @@ The repository is organized in a modular structure where each folder contains a 
 digital-logic-simulations/
 │
 ├── 01-4bit-register/ 
-│   ├── schematic.png
 │   ├── register_4bit.pdsprj
-│   └── README.md
+|   ├── README.md
+|       ├── shematic.png
+│       └── live simulation.mp4
 |
 |
 |
-├── 01-modulo20-counter/     
-│   ├── schematic.png         
-│   ├── demo.gif              
-│   ├── counter_m20.pdsprj   
-│   └── README.md            
+├── 01-modulo20-counter/                   
+│   ├── counter_m20.pdsprj
+|   ├── README.md
+|       ├── schematic.png
+│       └── live simulation.mp4
 │
 |
 |
