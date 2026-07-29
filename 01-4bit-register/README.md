@@ -39,5 +39,5 @@ https://github.com/user-attachments/assets/18376df5-f624-4bac-a05e-727847cfd1b5
 
 ---
 ## 💾 How to Run
-1. Open `register_4bit.pdsprj` in **Proteus 9** or higher.
+1. Open [`register_4bit.pdsprj`](./4bit-register.pdspri) in **Proteus 9** or higher.
 2. Set input values via logic switches and observe how outputs update synchronously with the clock signal.
