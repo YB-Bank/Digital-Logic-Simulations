@@ -7,7 +7,7 @@ Click on any project link below to access its detailed documentation, schematic 
 | # | Project Name | Key Concepts / Components | Link |
 | :--- | :--- | :--- | :--- |
 | **01** | 📦 **4-Bit Parallel Storage Register** | D Flip-Flops, Parallel Load, Bus Status Indicators, Sequential Memory | [View Project ↗](./01-4bit-register) |
-| **02** | 🔢 **Modulo-20 Counter System** | Cascaded Counters, Asynchronous Reset Logic, NAND Gates, BCD Outputs | [View Project ↗](./02-modulo20-counter) |
+| **02** | 🔢 **Modulo-20 Counter System** | Cascaded Counters, Asynchronous Reset Logic, NAND Gates, BCD Outputs | [View Project ↗](./02-modulo_20-counter) |
 
 > 💡 *More logic designs and state machine simulations will be added as the portfolio expands.*
 ---
