@@ -16,7 +16,7 @@ The repository is organized in a modular structure where each folder contains a 
 ```python
 digital-logic-simulations/
 │
-├── 02-4bit-register/          <-- Project 2: 4-Bit Storage Register
+├── 01-4bit-register/          <-- Project 2: 4-Bit Storage Register
 │   ├── schematic.png
 │   ├── register_4bit.pdsprj
 │   └── README.md
