@@ -39,5 +39,5 @@ https://github.com/user-attachments/assets/c9fd7c63-3a0b-4bac-be35-92122ab56499
 
 ---
 ## 💾 How to Run
-1. Open `counter_m20.pdsprj` in **Proteus 9** or higher.
+1. Open [`counter_m20.pdsprj`](COUNTRE.pdsprj) in **Proteus 9** or higher.
 2. Press the **Play** button at the bottom left to start counting from 0 to 19.
