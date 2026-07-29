@@ -13,7 +13,8 @@ A synchronous **4-Bit Parallel-In Parallel-Out (PIPO) Register** simulated in **
 
 
 ### 2. Live Simulation
-![4-Bit Register Simulation](demo.gif)
+
+![01-4bit-register](2026-07-29 12-49-05.mp4)
 ---
 ## 🧠 Working Principle
 1. **Data Setting:** Binary states (`0` or `1`) are selected using interactive LOGICSTATE switches connected to the $D$ inputs of flip-flops `U1` through `U4`.
